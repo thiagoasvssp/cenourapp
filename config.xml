@@ -13,4 +13,5 @@
                email="thiago.vieira@gmx.com">
         Thiago Vieira
     </author>
+    <preference	name="orientation" value="portrait"	/>
 </widget>
