@@ -14,4 +14,8 @@
         Thiago Vieira
     </author>
     <preference	name="orientation" value="portrait"	/>
+    <preference	name="fullscreen" value="true"	/>
+    <preference	name="permissions" value="none"	/>
+    <preference	name="android-minSdkVersion" value="16"	/>
+    <platform	name="android"	/>
 </widget>
